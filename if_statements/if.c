@@ -16,4 +16,6 @@ int main() {
         printf("You are right on the speed limit, and the speed limit is %d\n", speed_limit);
 
     }
+
+    return 0;
 }
